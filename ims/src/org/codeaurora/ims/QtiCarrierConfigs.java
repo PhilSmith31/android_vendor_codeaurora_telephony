@@ -90,4 +90,8 @@ public class QtiCarrierConfigs {
        hide me button in active call screen etc.
        true - enabled, false - disabled */
     public static final String SHOW_STATIC_IMAGE_UI = "show_static_image_ui";
+    /* Config that controls whether to stop video preview video and show static image
+       in video preview or not
+       true - enabled, false - disabled */
+    public static final String TRANSMIT_STATIC_IMAGE = "transmit_static_image";
 }
